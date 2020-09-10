@@ -1,0 +1,8 @@
+api\WebServiceTestSoftAssert.class
+baseclasses\UnitTestBaseClass.class
+unit\FirstTestNGTest.class
+api\ApiTestWithDataProviders.class
+api\ApiTestWithoutDataProviders.class
+api\WebServiceTestWithSetup.class
+unit\UnitTestWithDataProviders.class
+baseclasses\WebServiceBaseClass.class

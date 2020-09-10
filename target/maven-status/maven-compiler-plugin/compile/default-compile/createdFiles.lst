@@ -1,0 +1,3 @@
+app\DuplicateUserException.class
+app\UserManager.class
+app\CommonApiDataProviders.class
